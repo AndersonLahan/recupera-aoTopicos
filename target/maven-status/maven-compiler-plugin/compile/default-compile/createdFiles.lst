@@ -1,0 +1,10 @@
+br\edu\ifnmg\carros\dao\UsuarioDAO.class
+br\edu\ifnmg\carros\entidade\Carro.class
+br\edu\ifnmg\carros\entidade\Usuario.class
+br\edu\ifnmg\carros\util\FabricaConexao.class
+br\edu\ifnmg\carros\bean\CarroBean.class
+br\edu\ifnmg\carros\bean\UsuarioBean.class
+br\edu\ifnmg\carros\dao\CarroDAO.class
+br\edu\ifnmg\carros\dao\CrudDAO.class
+br\edu\ifnmg\carros\util\exception\ErroSistema.class
+br\edu\ifnmg\carros\bean\CrudBean.class
